@@ -15,10 +15,6 @@
 ## License 
 This project is licensed under the MIT license. For more information about the license, go to [License](https://choosealicense.com/licenses/mit/).
 
-## Contribution
-If you wish to contribute to this project, feel free to submit a pull request. All contributions are welcome!
-
-Fork the repository. Create a new branch: git checkout -b feature/your-feature. Make your changes and commit them: git commit -m 'Add some feature'. Push to the branch: git push origin feature/your-feature. Submit a pull request.
 
 
 
